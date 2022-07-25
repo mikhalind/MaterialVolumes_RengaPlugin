@@ -1,0 +1,9 @@
+﻿<RengaPlugin>
+  <Name>RengaPlugin</Name>
+  <Version>1.0</Version>
+  <Copyright>Copyright text</Copyright>
+  <RequiredAPIVersion>2.3</RequiredAPIVersion>
+  <PluginType>net</PluginType>
+  <PluginFilename>RengaPlugin.dll</PluginFilename>
+  <Vendor>Renga</Vendor>
+</RengaPlugin>
